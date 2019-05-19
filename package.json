@@ -20,6 +20,13 @@
 	"categories": [
 		"Other"
 	],
+	"keywords": [
+		"simple",
+		"rails",
+		"navi",
+		"navigator",
+		"simple-rails-navigator"
+	],
 	"activationEvents": [
 		"onCommand:extension.simple_rails_navigator"
 	],

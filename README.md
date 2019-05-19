@@ -5,7 +5,7 @@
 Simple plugin for navigating Ruby on Rails applications.
 
 <p align="center">
-  <img src="https://github.com/yaboojp/vscode-simple-rails-navigator/blob/master/images/feature-1.png" alt="feature-1" />
+  <img src="https://raw.githubusercontent.com/yaboojp/vscode-simple-rails-navigator/master/images/feature-1.png" alt="feature-1" />
 </p>
 
 
