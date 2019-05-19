@@ -4,10 +4,13 @@
 
 Simple plugin for navigating Ruby on Rails applications.
 
+* Show navigator (`Shift + Cmd + r` on macOS or `Shift + Ctrl + r` on Windows and Linux)
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/yaboojp/vscode-simple-rails-navigator/master/images/feature-1.png" alt="feature-1" />
 </p>
 
+-----------------------------------------------------------------------------------------------------------
 
 ## Requirements
 
@@ -27,8 +30,10 @@ NA
 
 Initial release
 
------------------------------------------------------------------------------------------------------------
+### 0.0.2
 
-## Working with Markdown
+Add logo
 
-* Show navigator (`Shift + Cmd + r` on macOS or `Shift + Ctrl + r` on Windows and Linux)
+### 0.0.3
+
+Mod README
