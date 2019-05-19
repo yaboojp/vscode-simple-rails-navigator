@@ -10,14 +10,21 @@
 		"Other"
 	],
 	"activationEvents": [
-		"onCommand:extension.helloWorld"
+		"onCommand:extension.simple_rails_navigator"
 	],
 	"main": "./out/extension.js",
 	"contributes": {
 		"commands": [
 			{
-				"command": "extension.helloWorld",
-				"title": "Hello World"
+				"command": "extension.simple_rails_navigator",
+				"title": "Simple Rails Navigator"
+			}
+		],
+		"keybindings": [
+			{
+				"command": "extension.simple_rails_navigator",
+				"key": "ctrl+shift+r",
+				"mac": "cmd+shift+r"
 			}
 		]
 	},
