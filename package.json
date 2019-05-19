@@ -3,6 +3,16 @@
 	"displayName": "Simple Rails Navigator",
 	"description": "Simple plugin for navigating Ruby on Rails applications.",
 	"version": "0.0.1",
+	"publisher": "yaboojp",
+    "license": "https://github.com/yaboojp/vscode-simple-rails-navigator/blob/master/LICENSE.md",
+    "homepage": "https://github.com/yaboojp/vscode-simple-rails-navigator/blob/master/README.md",
+    "bugs": {
+        "url": "https://github.com/yaboojp/vscode-simple-rails-navigator/issues"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/yaboojp/vscode-simple-rails-navigator.git"
+    },
 	"engines": {
 		"vscode": "^1.34.0"
 	},
