@@ -4,8 +4,18 @@
 
 Simple plugin for navigating Ruby on Rails applications.
 
-* Show navigator (`Shift + Cmd + r` on macOS or `Shift + Ctrl + r` on Windows and Linux)
+* Show navigator (`Shift + Cmd + l` on macOS or `Shift + Ctrl + l` on Windows and Linux)
 
+Available commands:
+```
+[
+  {
+    "command": "extension.simple_rails_navigator",
+    "key": "ctrl+shift+l",
+    "mac": "cmd+shift+l"
+  }
+]
+```
 <p align="center">
   <img src="https://raw.githubusercontent.com/yaboojp/vscode-simple-rails-navigator/master/images/feature-1.png" alt="feature-1" />
 </p>

@@ -2,7 +2,7 @@
 	"name": "simple-rails-navigator",
 	"displayName": "Simple Rails Navigator",
 	"description": "Simple plugin for navigating Ruby on Rails applications.",
-	"version": "0.0.3",
+	"version": "0.0.5",
 	"publisher": "yaboojp",
 	"icon": "images/logo.png",
     "license": "https://github.com/yaboojp/vscode-simple-rails-navigator/blob/master/LICENSE.md",
@@ -41,8 +41,8 @@
 		"keybindings": [
 			{
 				"command": "extension.simple_rails_navigator",
-				"key": "ctrl+shift+r",
-				"mac": "cmd+shift+r"
+				"key": "ctrl+shift+l",
+				"mac": "cmd+shift+l"
 			}
 		]
 	},
